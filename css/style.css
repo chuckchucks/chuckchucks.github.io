@@ -54,7 +54,7 @@ p {
 
 #globalNav ul li a:hover {
     background-color: white;
-    color: #941414;
+    color: #C21111;
 }
 
 #globalFooter p {
@@ -121,7 +121,7 @@ p {
 .box-image {
     display: block;
     width: 310px;
-    padding: 5px;
+    padding: 2px;
 }
 
 hr {
